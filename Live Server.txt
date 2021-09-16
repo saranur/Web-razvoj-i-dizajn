@@ -1,0 +1,4 @@
+Kako postaviti Live Server: 
+
+1. Otvorimo VSCode i otvorimo ekstenzije 
+
