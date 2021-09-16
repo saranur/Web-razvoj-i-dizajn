@@ -4,8 +4,9 @@
 
 1. LIve Server (sve promjene koje pravite se automatski prikazuju na browseru) 
 
-   []: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer	"Live Server"
+   [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
    
 
 2. 
+
