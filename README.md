@@ -10,7 +10,7 @@ Link za CSS cheatsheet: [CSS CheatSheet](https://htmlcheatsheet.com/css/)
 
 Link za JavaScript cheatsheet: [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
 
-## Korisne ekstenzije za WRD
+## Korisne ekstenzije za VS Code
 
 1. Live Server (sve promjene koje pravite se automatski prikazuju na browseru) [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)   
 
