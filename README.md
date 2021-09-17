@@ -4,11 +4,11 @@
 
 Download VSCode : 
 
-[Visual Studio Code]: https://code.visualstudio.com/download
+[]: https://code.visualstudio.com/download	"Visual Studio Code"
 
 Link za HTML cheatshert: 
 
-[HTML5 CheatSheet]: https://htmlcheatsheet.com/
+[]: https://htmlcheatsheet.com/	"HTML5 CheatSheet"
 
 
 
