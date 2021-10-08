@@ -1,26 +1,51 @@
 # Web-razvoj-i-dizajn
+Repozitorij za zadatke iz Web razvoja i dizajna.
+<hr>
 
-## Getting Familiar
+<details>
+  <summary>Getting Familiar</summary>
+<br>
+<ul>
 
-Download VSCode : [Visual Studio Code](https://code.visualstudio.com/download )
+<li><a href="https://code.visualstudio.com/download"> Download VSCode </a></li>
+<li><a href="https://htmlcheatsheet.com/"> HTML5 CheatSheet </a></li>
+<li><a href="https://htmlcheatsheet.com/css/)">CSS CheatSheet</a></li>
+<li><a href="https://htmlcheatsheet.com/js/">JavaScript CheatSheet </a></li>
+  </ul>
+</details>
+<hr>
 
-Link za HTML cheatsheet: [HTML5 CheatSheet](https://htmlcheatsheet.com/ )
 
-Link za CSS cheatsheet: [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+<details>
+  <summary>Korisne ekstenzije za VSCode </summary>
+<br>
+<ol>
 
-Link za JavaScript cheatsheet: [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"> Live Server </a>(sve promjene koje pravite se automatski prikazuju na browseru) <a href="https://github.com/saranur/Web-razvoj-i-dizajn/blob/main/Live%20Server.txt"> Live Server setup</a></li>
+   <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer"> Bracket pairalizer </a>(automatski oznaci zagrade u razlicitim bojama, automatski ih zatvara/otvara)</li>
+   <li><a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> VS code IntelliCode </a>  (pomaze oko code-a u svim aspektima)</li>
+   <li><a href="https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets"> JavaScript code snippets  </a>(brze pisete JS code sa ovime)</li>
+   <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag"> Auto close tag </a> (automatski zatvara sve otvorene HTML tagove)</li>
+  </ol>
+</details>
+<hr>
 
-## Korisne ekstenzije za VS Code
+<h3>Ispitni zadaci</h3>
+<hr>
 
-1. Live Server (sve promjene koje pravite se automatski prikazuju na browseru) [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)   
+Ispitni 03.07.2021 [Postavka](url) [Rješenje](url)
 
-   [(Live Server setup)](https://github.com/saranur/Web-razvoj-i-dizajn/blob/main/Live%20Server.txt)
+Ispitni 14.09.2019 [Postavka](url) [Rješenje](url)
 
-2. Bracket pairalizer (automatski oznaci zagrade u razlicitim bojama, automatski ih zatvara/otvara): [Bracket pair](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+Ispitni 20.04.2019 (parcijalni) [Postavka](url) [Rješenje](url)
 
-3. VS code IntelliCode (pomaze oko code-a u svim aspektima): [VS Code IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+Ispitni 22.06.2019 [Postavka](url) [Rješenje](url)
 
-4. JavaScript code snippets (brze pisete JS code sa ovime): [JavaScript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+Ispitni 26.09.2020 - [Postavka](url) [Rješenje](url)
 
-5. Auto close tag (automatski zatvara sve otvorene HTML tagove): [AutoClose Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+Ispitni 31.08.2019 - [Postavka](url) [Rješenje](url)
+
+Probni ispitni 25.05.2021 - [Postavka](url) [Rješenje](url)
+<hr>
+
 
